@@ -45,11 +45,11 @@ console.log(score);
 1. biến dùng để khai báo dữ liệu để sử dụng trong javascript
 2.dùng let khi muốn thay đổi đổi giá trị
 3. dùng const khi không thay đổi giá trị
-4. hiện nay , hạn chế dùng var vì var là biến toàn cục , rất dễ gây ra lỗi khi dùng , 
-5. block scope là hàm cục bộ được dùng trong {} 
+// 4. Hạn chế dùng var vì var cho phép khai báo lại, có hoisting ra undefined, và không có block scope nên dễ gây lỗi.
+// 5. Block scope là phạm vi của biến bên trong cặp { }.
 6. biến khai báo bằng let trong {} không dùng được bên ngoài vì đây là biến cục bộ
 7. var không có block scope 
-8.hoisting kiểu như là kéo giá trị về đâu file
+// 8. Hoisting là cơ chế JavaScript xử lý phần khai báo trước khi chạy code, không kéo giá trị gán lên trước.
 9. đoạn code này in ra undefined
 10. đoạn code này không chạy được . vì let phải được khai báo trước 
 11. file .js dùng để khai báo , xử lí code của html và css trong file javascript 
@@ -58,3 +58,7 @@ console.log(score);
 14. github là trang ứng dụng để cho mình truy cập , xem tiến độ , để cho mọi người trong dự án có thể xem 
 15. git status dùng để kiếm tra trạng thái code 
 */
+// Các câu sai cần sửa 
+
+
+
