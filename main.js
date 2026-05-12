@@ -1,0 +1,1 @@
+console.log("Chào giảng viên , em đã sẵn sàng bắt đầu lộ trình TrungQuanDev")
